@@ -1,1 +1,1 @@
-Various scripts used for the project
+Various scripts used for the project.

@@ -1,0 +1,1 @@
+Gets the checksum for a name in `get_prop_*`
